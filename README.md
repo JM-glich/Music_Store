@@ -697,7 +697,20 @@ Navigasi dilakukan menggunakan:
 
 ```dart
 Navigator.push()
+```
 
 ---
 
+## TAMPILAN APLIKASI
+
+### Halaman Utama
+<img width="931" height="1053" alt="image" src="https://github.com/user-attachments/assets/f58f8460-3f4d-4234-8f2d-2b0488694bdd" />
+
+### Halaman order
+<img width="931" height="1053" alt="image" src="https://github.com/user-attachments/assets/5c966f7a-07b9-4a75-b624-a03b115f4132" />
+
+### Halaman Checkout order
+<img width="931" height="1053" alt="image" src="https://github.com/user-attachments/assets/f3111726-7ca0-4ac9-8d24-e4752e35f32f" />
+
+---
 
